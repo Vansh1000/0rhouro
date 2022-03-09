@@ -1,0 +1,27 @@
+#heading{
+    width: 100%;
+    font-size: 23px;
+}
+
+#number_of_objects, #status, #start{
+    font-size: 18px;
+}
+
+body{
+    background-size: cover;
+
+}
+
+#heo, #huh{
+    color: white;
+
+}
+
+#black{
+    font-size: 15px;
+    color: white;
+}
+
+#input{
+    width: 30%;
+}
